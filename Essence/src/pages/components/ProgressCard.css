@@ -1,0 +1,30 @@
+.progress-card-glass {
+  background: var(--glass);
+  border-radius: 12px;
+  box-shadow: var(--shad);
+  padding: 18px 24px;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  min-width: 120px;
+  min-height: 80px;
+}
+.progress-card-icon {
+  font-size: 2rem;
+  color: var(--a1);
+}
+.progress-card-content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.progress-card-value {
+  font-size: 1.3rem;
+  font-weight: bold;
+  color: var(--text-color);
+}
+.progress-card-label {
+  font-size: 0.9rem;
+  color: var(--text-color);
+  opacity: 0.7;
+}

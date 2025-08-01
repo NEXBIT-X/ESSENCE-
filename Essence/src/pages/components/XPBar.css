@@ -1,0 +1,26 @@
+.xpbar-glass {
+  background: var(--glass);
+  border-radius: 10px;
+  box-shadow: var(--shad);
+  padding: 8px 16px;
+  position: relative;
+  margin: 16px 0;
+  overflow: hidden;
+}
+.xpbar-fill {
+  background: var(--gradient);
+  height: 16px;
+  border-radius: 8px;
+  transition: width 0.4s cubic-bezier(.4,2,.6,1);
+  position: absolute;
+  left: 0; top: 0; bottom: 0;
+  z-index: 1;
+}
+.xpbar-label {
+  position: relative;
+  z-index: 2;
+  color: var(--text-color);
+  font-family: monospace;
+  font-size: 1rem;
+  padding-left: 8px;
+}
