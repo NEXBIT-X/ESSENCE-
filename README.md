@@ -6,7 +6,7 @@
 
 # **Essence – Cultural Learning App**
 ![Essence Banner](https://img.shields.io/badge/Project-Essence-blueviolet?style=for-the-badge)  [![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react)](https://react.dev)  [![Vite](https://img.shields.io/badge/Vite-Build%20Tool-646CFF?style=for-the-badge&logo=vite)](https://vitejs.dev)  
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+
 
 ---
 
